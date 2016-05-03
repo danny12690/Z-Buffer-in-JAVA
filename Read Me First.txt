@@ -1,0 +1,15 @@
+The program can be run directly using an IDE.
+
+Also, it can be run using command Line as follows :
+
+java Stairs 25 15 stairs.dat
+
+25: Number of stairs
+15: angle between the stairs
+stairs.dat : Output file name
+
+Note: The program takes default values only if no arguments are provided.
+
+Also note : The generated output file can be loaded with HLines.java or Zbuff.java or Painter.java
+
+PS: a sample generated TestStairs.dat is also provided for reference.
